@@ -94,4 +94,4 @@ jobs:
           context: ./
           file: ./Dockerfile
           push: true
-          tags: us-central1-docker.pkg.dev/assignment-2-feb-23-757-pm/my-repo/fastapi-server:v2
+          tags: us-central1-docker.pkg.dev/assignment-2-feb-23-757-pm/my-artifact-repository/app:v1
